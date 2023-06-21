@@ -6,7 +6,7 @@
 > 
 > 只有两种编程语言：一种是天天挨骂的，另一种是没人用的。——Bjarne Stroustrup
 
-* [在线阅读](http://jbt.apachecn.org/)
+* [在线阅读](http://jbt.flygon.net/)
 ## 下载
 
 ### Docker
